@@ -1,6 +1,6 @@
 # FrameworkFromScratch Project:
 
-A hands-on project focused on designing and implementing an end-to-end test automation framework from the ground up with Playwright Test and TypeScript. It applies the Page Object Model (POM) to organize test scenarios and provides a practical setting for exploring AI-assisted documentation workflows.
+A project focused on designing and implementing end-to-end test automation framework from the ground up with Playwright Test and TypeScript. It applies the Page Object Model (POM) to organize test scenarios and provides a practical setting for exploring AI-assisted documentation workflows.
 
 ## Installation guidelines
 
