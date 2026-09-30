@@ -11,6 +11,8 @@ git clone https://github.com/KatKamenova/SauceProject.git
 cd SauceProject
 ```
 
+The tests use SauceDemo's public demo account credentials, defined in `Enums/userLoginDetails.ts`. No local credentials file is required.
+
 ## Tech Stack
 
 - **Language:** TypeScript
